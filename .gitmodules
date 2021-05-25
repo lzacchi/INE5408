@@ -1,0 +1,3 @@
+[submodule "Traffic-Simulator"]
+	path = Traffic-Simulator
+	url = https://github.com/lzacchi/Traffic-Simulator
